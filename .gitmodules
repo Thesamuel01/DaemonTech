@@ -1,6 +1,6 @@
 [submodule "DaemonTechChallenge"]
 	path = DaemonTechChallenge
-	url = .\\DaemonTechChallenge\\.git\\
+	url = git@github.com:Thesamuel01/DaemonTechChallenge.git
 [submodule "DaemonTechChallengeTests"]
 	path = DaemonTechChallengeTests
-	url = .\\DaemonTechChallengeTests\\
+	url = git@github.com:Thesamuel01/DaemonTechChallengeTests.git
