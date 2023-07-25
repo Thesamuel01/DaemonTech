@@ -12,3 +12,8 @@ To access the individual subprojects and contribute to the overall C# solution, 
 ```bash
 git clone git@github.com:Thesamuel01/DaemonTech.git
 ```
+
+**Initialize and update submodules**
+```bash
+git submodule update --init --recursive
+```
