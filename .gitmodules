@@ -1,0 +1,6 @@
+[submodule "DaemonTechChallenge"]
+	path = DaemonTechChallenge
+	url = .\\DaemonTechChallenge\\.git\\
+[submodule "DaemonTechChallengeTests"]
+	path = DaemonTechChallengeTests
+	url = .\\DaemonTechChallengeTests\\
